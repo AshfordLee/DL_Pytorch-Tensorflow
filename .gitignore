@@ -1,0 +1,8 @@
+# 忽略 data 文件夹及其所有内容
+data/
+
+# 忽略 Python 虚拟环境
+venv/
+env/
+.env/
+.venv/ 
